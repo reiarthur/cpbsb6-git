@@ -40,7 +40,7 @@ Além disso, você também pode contribuir:
 
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/jhonesjhonatas/cpbsb6-git/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cpbsb6-git"/>
+  <img src="https://contrib.rocks/image?repo=jhonesjhonatas/cpbsb6-git"/>
 </a>
 
 ##
